@@ -1,5 +1,5 @@
 # Glauber Souza
-Olá! Sou estudante de engenharia de software apaixonado por tecnologia e programação. 👨‍💻
+Olá! Sou estudante de desenvolvimento de software apaixonado por tecnologia e programação. 👨‍💻
 
 - 🌱 Atualmente, estou aprendendo novas linguagens e ferramentas de desenvolvimento.
 - 💡 Estou sempre em busca de novos desafios e oportunidades de aprendizado.
