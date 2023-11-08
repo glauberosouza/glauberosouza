@@ -3,7 +3,6 @@ Olá! Sou estudante de desenvolvimento de software apaixonado por tecnologia e p
 
 - 🌱 Atualmente, estou aprendendo novas linguagens e ferramentas de desenvolvimento.
 - 💡 Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-- 🎯 Meu objetivo é me tornar uma referência na área de desenvolvimento.
 
 Sinta-se à vontade para explorar meu perfil e entrar em contato! 🚀
 
